@@ -1,3 +1,3 @@
 # first-contribute
 this is my first reposatory . <br>
-author - manya rajput
+author - manya rajput {decoding you}
